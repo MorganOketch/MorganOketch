@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding with C ,Java ,JavaScript ,HTML ,CSS
 - 🌱 I’m currently learning React js and Python languages 
 - 💞️ I’m looking to collaborate on suoerior church web delopment
-- 📫 How to reach me is through contacting me
+- 📫 How to reach me is through contacting me at westmorgan698@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
